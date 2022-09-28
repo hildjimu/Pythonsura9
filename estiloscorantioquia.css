@@ -1,0 +1,7 @@
+/*estilos para imagen de fondo de la pestaña corantioquia*/
+.imagenFondo{
+    background-image: url("./img/Corantioquia1.jpg");
+    background-position: top center;
+    background-size: cover;
+    padding: 10% 20% 35% 30%;
+}   
